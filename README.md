@@ -2,6 +2,11 @@
 
 # In-silico modeling of atrial SK channel trafficking.
 
+<p><strong><span style="color:red;">NOTE: THIS REPOSITORY IS ONLY FOR ARCHIVAL PURPOSES AND IS NOT MAINTAINED. FOR AN UPDATED VERSION PLEASE LOOK AT THE HEIJMANLAB GITHUB PAGE.</span></strong></p>
+
+**Link to HeijmanLab:** [https://github.com/HeijmanLab/SK-trafficking](https://github.com/HeijmanLab/SK-trafficking)
+
+
 This model is part of the Journal of Physiology (2025) submission:
 "Computational Modeling of the Pro- and Antiarrhythmic Effects of Atrial High Rate-Dependent Trafficking of Small-Conductance Calcium-Activated Potassium Channels"
 by Stefan Meier, Dobromir Dobrev, Paul G.A. Volders, Jordi Heijman.
