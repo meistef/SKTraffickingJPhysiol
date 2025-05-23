@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Computational Modeling of the Pro- and Antiarrhythmic Effects of Atrial High Rate-Dependent Trafficking of Small-Conductance Calcium-Activated Potassium Channels"
+authors:
+  - family-names: Meier
+    given-names: Stefan
+  - family-names: Dobrev
+    given-names: Dobromir
+  - family-names: Volders
+    given-names: Paul G.A.
+  - family-names: Heijman
+    given-names: Jordi
+doi: 10.5281/zenodo.15494834
+preferred-citation:
+  type: article
+  title: "Computational Modeling of the Pro- and Antiarrhythmic Effects of Atrial High Rate-Dependent Trafficking of Small-Conductance Calcium-Activated Potassium Channels"
+  authors:
+    - family-names: Meier
+      given-names: Stefan
+    - family-names: Dobrev
+      given-names: Dobromir
+    - family-names: Volders
+      given-names: Paul G.A.
+    - family-names: Heijman
+      given-names: Jordi
+  doi: 10.5281/zenodo.15494834
+  publisher: Zenodo
+  year: 2025
